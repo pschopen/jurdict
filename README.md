@@ -2,7 +2,7 @@
 Jurdict ist ein kostenloses Sprachpaket für Microsoft Office Word. Es enthält bisher die wichtigsten juristischen Abkürzungen, lateinischen Fachbegriffe und die Namen der bekanntesten Rechtswissenschaftler. Es richtet sich an Anwälte, Wissenschaftler und Studenten.
 
 # Installation
-Die im Paket enthaltene .dic-Datei kann einfach in Word über <code>Einstellungen > Rechtschreibung und Grammatik > Wörterbücher > Hinzufügen</code> (MAC) und <code>Microsoft Office Word® > Datei > Optionen > Dokumentenprüfung > Benutzerwörterbücher > Hinzufügen</code> (WINDOWS) eingefügt werden. Bitte beachten Sie, dass Word immer im angegebenen Ordner nach der Datei suchen wird. Sie dürfen die Datei von dort also nicht löschen oder verschieben.
+Die im Paket enthaltene .dic-Datei kann einfach in Word über <code>Einstellungen > Rechtschreibung und Grammatik > Wörterbücher > Hinzufügen</code> (MAC) und <code>Datei > Optionen > Dokumentenprüfung > Benutzerwörterbücher > Hinzufügen</code> (WINDOWS) eingefügt werden. Bitte beachten Sie, dass Word immer im angegebenen Ordner nach der Datei suchen wird. Sie dürfen die Datei von dort also nicht löschen oder verschieben.
 
 # Rechtliches
 ## Lizenz
