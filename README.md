@@ -6,7 +6,7 @@ Die im Paket enthaltene .dic-Datei kann einfach in Word über <code>Einstellunge
 
 # Rechtliches
 ## Lizenz
-Jurdict steht unter der Creative Commons Lizenz "CC BY-SA 3.0". Das bedeutet, dass jeder Jurdict teilen und bearbeiten darf, auch kommerziell. Beides allerdings nur, wenn die Weitergabe unter Nennung des Namens und ihrerseits unter der gleichen Lizenz erfolgt. Es ist also nicht möglich, Jurdict zu einem Teil eines kommerziellen Produktes zu machen. Weitere Informationen gibt es hier: https://creativecommons.org/licenses/by-sa/3.0/deed.de
+Jurdict steht unter der Creative Commons Lizenz "CC BY-SA 3.0". Sie können das Produkt in jederweder Form für sich kommerziell nutzen und es unter den Bedingungen der CC-Lizenz auch teilen. Die Bedingungen der CC-Lizenz sind Namensnennung und gleiche Bedingungen. Dies Vermarktung als kommerzielles Produkt ist damit ausgeschlossen. Weitere Informationen gibt es hier: https://creativecommons.org/licenses/by-sa/3.0/deed.de
 
 ## Credits
 Die juristischen Abkürzungen, Fachbegriffe und Namen sind der deutschsprachigen Wikipedia entnommen und wurden im Anschluss daran erweitert. www.wikipedia.org
