@@ -10,3 +10,5 @@ Jurdict steht unter der Creative Commons Lizenz "CC BY-SA 3.0". Sie können das 
 
 ## Credits
 Die juristischen Abkürzungen, Fachbegriffe und Namen sind der deutschsprachigen Wikipedia entnommen und wurden im Anschluss daran erweitert. www.wikipedia.org
+
+&copy; Philip Schopen
