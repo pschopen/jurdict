@@ -1,16 +1,22 @@
+INSTALLATIONSANLEITUNG
+======================
+
 WINDOWS
+-------
 
 1. Entpacken der Zip-Datei
 2. In Word navigieren zu: "Datei > Optionen > Dokumentenprüfung > Benutzerwörterbücher > Hinzufügen"
 3. jurdict-sprachpaket.dic auswählen und bestätigen.
 
-MAC
+MAC OS
+------
 
 1. Entpacken der Zip-Datei
 2. In Word navigieren zu: "Einstellungen > Rechtschreibung und Grammatik > Wörterbücher > Hinzufügen (MAC)"
 3. jurdict-sprachpaket.dic auswählen und bestätigen.
 
 UPDATES
+-------
 
 Um auf dem aktuellen Stand zu sein, empfiehlt es sich, regelmäßig auf Github zu schauen, ob es eine neue Version gibt.
 Eine neue Version wird auf dem gleichen Wege hinzugefügt. Die alte Version sollte vorher entfernt werden.
