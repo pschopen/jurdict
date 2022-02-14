@@ -14,6 +14,7 @@ Jurdict steht unter der Creative Commons Lizenz "CC BY-SA 3.0". Sie können das 
 ## Credits
 Die juristischen Abkürzungen, Fachbegriffe und Namen sind der deutschsprachigen Wikipedia entnommen und wurden im Anschluss daran erweitert. www.wikipedia.org
 
-Seit Version 1.1 sind mit freundlicher Genehmigung von Prof. Dr. Gerhard Köbler die Fachbegriffe aus dem im Vahlen-Verlag erscheinenden Juristischen Wörterbuch enthalten.
+Jurdict umfasst seit Version 1.1 in Ergänzung von Word mit Zustimmung von Verfasser und Verlag alle halbfett gesetzten Stichwörter von
+Köbler, Gerhard, Juristisches Wörterbuch, 18. Aufl., (Verlag) Vahlen, München 2022, ca. 600 S., das durch 8700 Lemmata systematisch den gesamten aktuellen Rechtsgrundwortschatz für Studium und Ausbildung in Deutschland erfasst, in dem anschließenden Text mit vielen Beispielen knapp und klar erläutert und vertieft sowie in fast weiteren 4500 Absätzen um wichtige weiterführende Literaturhinweise bereichert.
 
 &copy; Philip Schopen
