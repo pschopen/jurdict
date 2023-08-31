@@ -4,6 +4,8 @@ Jurdict ist ein kostenloses Sprachpaket für Microsoft Office Word. Es enthält 
 # Installation
 Die im Paket enthaltene .dic-Datei kann einfach in Word über <code>Einstellungen > Rechtschreibung und Grammatik > Wörterbücher > Hinzufügen</code> (MAC) und <code>Datei > Optionen > Dokumentenprüfung > Benutzerwörterbücher > Hinzufügen</code> (WINDOWS) eingefügt werden. Bitte beachten Sie, dass Word immer im angegebenen Ordner nach der Datei suchen wird. Sie dürfen die Datei von dort also nicht löschen oder verschieben.
 
+Unter Umständen ist es in einigen Versionen von Word erforderlich, im Datei-Manager das Anzeigen von allen Dateien zu erlauben, um die jurdict-sprachpaket.dic auswählen zu können.
+
 # Mitmachen
 Wenn Ihnen einzelne Worte fehlen oder Sie die Ergänzung einer ganzen Wortsammlung vorschlagen möchten, können Sie dies über den Reiter "Issues" im oberen Bildbereich auf Github erledigen.
 
