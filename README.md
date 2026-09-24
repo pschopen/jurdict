@@ -1,11 +1,20 @@
 # Jurdict
-Jurdict ist ein kostenloses Sprachpaket für Microsoft Office Word. Es enthält bisher die wichtigsten juristischen Abkürzungen, lateinischen Fachbegriffe und die Namen der bekanntesten Rechtswissenschaftler. Es richtet sich an Anwälte, Wissenschaftler, Studenten und andere Juristen.
+Jurdict ist ein kostenloses Sprachpaket zur Verwendung in Microsoft Word und LibreOffice. Es enthält bisher die wichtigsten juristischen Abkürzungen, lateinischen Fachbegriffe und die Namen der bekanntesten Rechtswissenschaftler. Es richtet sich an Anwälte, Wissenschaftler, Studenten und andere Juristen.
 
 # Installation
+## Microsoft Word 
 Die im Paket enthaltene .dic-Datei kann einfach in Word über <code>Einstellungen > Rechtschreibung und Grammatik > Wörterbücher > Hinzufügen</code> (MAC) und <code>Datei > Optionen > Dokumentenprüfung > Benutzerwörterbücher > Hinzufügen</code> (WINDOWS) eingefügt werden. Bitte beachten Sie, dass Word immer im angegebenen Ordner nach der Datei suchen wird. Sie dürfen die Datei von dort also nicht löschen oder verschieben.
 
 Unter Umständen ist es in einigen Versionen von Word erforderlich, im Datei-Manager das Anzeigen von allen Dateien zu erlauben, um die jurdict-sprachpaket.dic auswählen zu können.
 
+## LibreOffice
+Zur Verwendung in LibreOffice muss am Anfang der Wörterbuch-Datei <code>jurdict-sprachpaket.dic</code> die in Zeile 1 stehende Word-Sprachkennung <code>#LID 1031</code> entfernt und durch den 4-zeiligen Vorspann für LibreOffice-Benutzerwörterbücher ersetzt werden:  
+<code>OOoUserDict1  
+lang: <none>  
+type: positive   
+\---</code>  
+
+Die derart modifizierte Datei kopiert man dann in das Standardverzeichnis für Benutzerwörterbücher: <code>C:\Program Files\LibreOffice\share\wordbook\\</code> (Windows) bzw. <code>/usr/lib/libreoffice/share/wordbook/</code> (Linux). Beim nächsten Start von LibreOffice kann das benutzerdefinierte Wörterbuch dann in <code>Extras > Optionen > Sprachen und Gebietsschmata > Linguistik</code> aktiviert werden.
 # Mitmachen
 Wenn Ihnen einzelne Worte fehlen oder Sie die Ergänzung einer ganzen Wortsammlung vorschlagen möchten, können Sie dies über den Reiter "Issues" im oberen Bildbereich auf Github erledigen.
 
